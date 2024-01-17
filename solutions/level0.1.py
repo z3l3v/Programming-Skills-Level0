@@ -6,11 +6,7 @@
 * The initial balance in the bank account is $2000.
 * The system must allow users to deposit, withdraw, view, and transfer money.
 * The system must display a menu for users to perform transactions.
-'''
 
-'''def new_user ():
-    user = "Create new username: "
-    passwd = "Enter a password: "
 '''
 
 import time
